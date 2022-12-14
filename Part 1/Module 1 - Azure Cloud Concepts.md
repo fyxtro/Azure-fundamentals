@@ -14,6 +14,7 @@ Is vaak niet bereikbaar buiten het bedrijf.
 ### Hybrid cloud
 Combinatie van Public en Private waarbij sommige applicaties on-prem draaien die niet van buitenaf beschikbaar hoeven te zijn in de private cloud draaien en andere die dat wel moeten zijn in de public cloud omgeving draaien.
 ![[Pasted image 20221213093801.png]]
+![image](https://github.com/fyxtro/Azure-fundamentals/raw/master/Images/Pasted%20image%2020221213093801.png)
 
 ---
 
